@@ -1,0 +1,173 @@
+body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font: 15px;   
+        margin: 0; 
+        background: #21be68; 
+        background: url(https://i.insider.com/5d3f1d4d48c50a4924739ce3?width=2400)
+   }
+
+   h1 {
+        font: 45px Courier, sans-serif; 
+        margin: 0; 
+        color: rgb(216, 169, 16); 
+        text-shadow: 2px 2px 3px #000;
+        padding: 10px 150px 10px;
+   }
+
+   h3 {   
+        margin-top: 0; 
+        color: rgba(0, 0, 0, 0.712);
+   }
+
+   h4 {
+        font: 20px;
+        color:rgba(255, 255, 255, 0.877);
+   }
+
+   h5 {
+        font-size: 15px;
+        color:rgba(255, 176, 6, 0.897);
+   }
+
+   h6 {
+        font: 18px Courier, sans-serif;
+        color:rgba(255, 255, 255, 0.932);
+        text-shadow: 2px 2px 3px #000;
+        padding: 5px 150px 10px;
+   }
+
+   h2 {
+        color:rgba(255, 255, 255, 0.932);
+        font: 25px Courier, sans-serif;
+        text-shadow: 2px 2px 3px #000;
+   }
+
+   span {
+        font-size: 15px;
+        color:rgba(255, 255, 255, 0.877)
+   }
+
+   p {
+        color:rgba(0, 0, 0, 0.884)
+   }
+
+   .header {
+        background: #3a3939; 
+        padding: 10px; 
+   }
+
+   .header2 {
+        height: 30px;
+        background: #3a39398e; 
+   }
+
+
+   .sidebar {
+        width: 240px;
+        border-left: 7px solid rgba(218, 135, 41, 0.747);
+        padding: 20px; 
+        margin: 50px 150px 10px 940px; 
+        background-color: rgba(22, 22, 21, 0.5);
+        border-radius: 5px;
+   }
+
+   .content {
+        float: left;
+        line-height: 20px;
+        width: 640px;
+        height: 300px;
+        margin: 30px 450px 30px 150px; 
+        padding: 10px 30px; 
+        text-align: justify;
+        border-left: 7px solid rgba(51, 51, 51, 0.897);
+        background: #ffefdf; 
+        border-radius: 5px;
+        overflow: auto
+     
+    
+   }
+
+   .content4 {
+        float: left;
+        line-height: 20px;
+        width: 640px;
+        height: 300px;
+        margin: 30px 450px 30px 150px; 
+        padding: 10px 30px; 
+        text-align: justify;
+        border-left: 7px solid rgba(51, 51, 51, 0.897);
+        background: #ffefdf; 
+        border-radius: 5px;
+        overflow: auto
+   }
+
+   .content5 {
+        float: left;
+        line-height: 20px;
+        width: 640px;
+        height: 300px;
+        margin: 30px 450px 30px 150px; 
+        padding: 10px 30px; 
+        text-align: justify;
+        border-left: 7px solid rgba(51, 51, 51, 0.897);
+        background: #ffefdf; 
+        border-radius: 5px;
+        overflow: auto
+   }
+
+   .content6 {
+        float: left;
+        line-height: 20px;
+        width: 640px;
+        height: 300px;
+        margin: 30px 450px 30px 150px; 
+        padding: 10px 30px; 
+        text-align: justify;
+        border-left: 7px solid rgba(51, 51, 51, 0.897);
+        background: #ffefdf; 
+        border-radius: 5px;
+        overflow: auto
+   }
+
+   .content7 {
+        float: left;
+        line-height: 20px;
+        width: 640px;
+        height: 300px;
+        margin: 30px 450px 30px 150px; 
+        padding: 10px 30px;
+        text-align: justify;
+        border-left: 7px solid rgba(51, 51, 51, 0.897);
+        background: #ffefdf; 
+        border-radius: 5px;
+        overflow: auto
+   }
+
+   .footer {
+        background: #333; 
+        padding: 20px; 
+        color: #fff; 
+        clear: left; 
+   }
+
+   .menu {
+        width: 240px;
+        border-left: 7px solid rgba(218, 135, 41, 0.747);
+        padding: 20px; 
+        margin: 30px 150px 10px 940px; 
+        background: #ffefdf; 
+        border-radius: 5px;
+   }
+
+   .block {
+        width: 250px;
+        padding: 5px; 
+        padding-left: 20px; 
+        margin: -450px 500px 20px 150px; 
+        background-color: rgba(22, 22, 21, 0.5);
+        border-radius: 5px;
+   }
+
+
+
+   
